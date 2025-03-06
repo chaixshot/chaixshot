@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi I'm H@mer 👋
+[![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://darkrpth.tebex.io/)](https://darkrpth.tebex.io/)
+[![Youtube Badge](https://img.shields.io/badge/-@chaixshot-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@chaixshot)](https://www.youtube.com/@chaixshot)
+[![Youtube Badge](https://img.shields.io/badge/-@darkrpth-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@darkrpth)](https://www.youtube.com/@darkrpth)
+[![Gitbook Badge](https://img.shields.io/badge/-hamer.gitbook-000000?style=flat&labelColor=AAAAAA&logo=Gitbook&link=https://hamer.gitbook.io/)](https://hamer.gitbook.io/)
 
-<!--
-**chaixshot/chaixshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chaixshot">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chaixshot">
+</picture>
 
-Here are some ideas to get you started:
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chaixshot&layout=compact">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaixshot&layout=compact">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub last commit](https://img.shields.io/github/last-commit/chaixshot/chaixshot)
+![pv](https://pageview.vercel.app/?github_user=chaixshot)
